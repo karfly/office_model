@@ -1,0 +1,6 @@
+nClerk   = 3
+nDoc     = 2
+tClerk   = 1 
+nScanner = 1
+tScanner = 2
+sQueue   = 1
